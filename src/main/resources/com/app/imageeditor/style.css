@@ -1,0 +1,22 @@
+
+.root{
+    -fx-background-color: #e4eff6;
+}
+.button{
+
+    -fx-padding: 5;
+    -fx-background-color: transparent;
+    -fx-border-color: #6c3bcb;
+    -fx-border-radius: 2;
+    -fx-border-width: 2;
+}
+.combo-box, .text-field, .color-picker{
+    -fx-background-color: transparent;
+    -fx-border-color: #6c3bcb;
+    -fx-border-radius: 2;
+    -fx-border-width: 2;
+}
+.combo-box:hover,.text-field:hover,.color-picker:hover,.button:hover{
+    -fx-opacity: 0.6;
+    -fx-background-color: #ffffff;
+}
