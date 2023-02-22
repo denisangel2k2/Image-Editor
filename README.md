@@ -4,7 +4,7 @@
 This application is an image editing software wrote in Java using JavaFX library for the GUI.
 
 
-[![JavaFX](https://img.shields.io/badge/toolkit-JavaFX-orange)](https://www.postgresql.org)
+[![JavaFX](https://img.shields.io/badge/toolkit-JavaFX-orange)](https://openjfx.io/)
 
 ## Achievements
 This project strengthened my knowledge about mouse events, processing an image and bug solving. In addition, I managed to make use of the factory and singleton design patterns for the Image processing features, which made me avoid various potential issues with the code along the development process.
